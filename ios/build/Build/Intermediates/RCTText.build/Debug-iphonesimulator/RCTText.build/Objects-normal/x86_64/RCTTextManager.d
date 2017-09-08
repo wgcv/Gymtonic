@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTTextManager.m \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTTextManager.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView+Layout.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTTextView.h \
+  /Users/wgcv/dev/Gymtonic/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTTextInput.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/Text/RCTBackedTextInputViewProtocol.h

@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.m \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTTransformAnimatedNode.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h \
+  /Users/wgcv/dev/Gymtonic/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h
